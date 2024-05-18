@@ -56,6 +56,10 @@ Feel free to **file a new issue** with a respective title and description on the
 Please do not hesitate to contact me on any socials if you need the ROM or trained model files, have fun!
 --> 
 
+## :handshake: Team Xerneas
+- Ojas Patil
+- Garvita Kesarwani
+
 ## :fountain_pen: License
 [Achape-License-2](https://github.com/Patil-Ojas/Surgical-Tool-Detector/blob/main/LICENSE)
 
