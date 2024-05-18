@@ -1,7 +1,7 @@
 # Stryker Hackathon - Final Round
 
 ## :gear: Problem Statement 
-Tasked with developing deep learning models that can perform the task of segmenting and recognizing the instruments shown in the videos. In each frame, a variety of surgical tools are present ( Instruments , Clamps, threads) . These tools need to be segmented according to their category along with the tissue appearing in the background.  
+Tasked with developing deep learning models that can perform the task of segmenting and recognizing the instruments shown in the videos. In each frame, a variety of surgical tools are present ( Instruments , Clamps, threads). These tools need to be segmented according to their category along with the tissue appearing in the background.  
 
 ## :detective: Surgical-Tool-Detector 
 -> Built a surgical video segmentation pipeline by fine-tuning Detectron2, a modular framework by Meta AI Research, and Mask-RCNN for 
