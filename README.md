@@ -11,10 +11,10 @@ binary classification and surgical tool recognition.
 
 -> Full Code will be released once we recieve confirmation about Hackathon results from Stryker.
 
-<!--
-## :tv: Demo
 
--->
+## :tv: Demo
+![Live Demo](https://github.com/Patil-Ojas/Surgical-Tool-Detector/blob/main/demo/demo.gif?raw=true)
+
 
 ## :hourglass_flowing_sand: Workflow 
 ![image](https://github.com/Patil-Ojas/Surgical-Tool-Detector/assets/128805590/879e4051-bb38-4cba-b3c5-10058dc544ca)
