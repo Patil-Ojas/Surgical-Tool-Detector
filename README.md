@@ -1,4 +1,4 @@
-# Stryker Hackathon - Final Round
+# Stryker Hackathon
 
 ## :gear: Problem Statement 
 Tasked with developing deep learning models that can perform the task of segmenting and recognizing the instruments shown in the videos. In each frame, a variety of surgical tools are present (Instruments, Clamps, threads). These tools need to be segmented according to their category along with the tissue appearing in the background.
