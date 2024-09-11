@@ -9,8 +9,6 @@ binary classification and surgical tool recognition.
 
 -> Developed Pipeline for automated conversion of segmented video frames to quantifiable files and used GPT-3.5 for real-time inferencing.
 
--> Full Code will be released once we recieve confirmation about Hackathon results from Stryker.
-
 
 ## :tv: Demo
 ![Live Demo](https://github.com/Patil-Ojas/Surgical-Tool-Detector/blob/main/demo/demo.gif?raw=true)
