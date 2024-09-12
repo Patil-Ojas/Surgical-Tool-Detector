@@ -11,7 +11,7 @@ binary classification and surgical tool recognition.
 
 
 ## :tv: Demo
-![Live Demo](https://github.com/Patil-Ojas/Surgical-Tool-Detector/blob/main/demo/demo.gif?raw=true)
+![Live Demo](https://github.com/Patil-Ojas/Surgical-Tool-Detector/blob/main/Demo/demo.gif?raw=true)
 
 
 ## :hourglass_flowing_sand: Workflow 
@@ -30,19 +30,6 @@ The classes found in the training and test are:
   
 Each class will have a distinct numerical label in a ground truth image. A supplied json file will contain the class name to numerical label mapping.
 
-<!--
-## :warning: Framework & TechStack used
-
--> [PyTorch](https://pytorch.org/)
-
--> [Openai-gym](https://openai.com/index/openai-gym-beta/)
-
--> [PPO](https://openai.com/index/openai-baselines-ppo/)
-
--> [SB-3](https://stable-baselines3.readthedocs.io/en/master/)
-
--> [Optuna](https://optuna.org/)
--->
   
 ## Inferencing using GPT-3.5
 ![image](https://github.com/Patil-Ojas/Surgical-Tool-Detector/assets/128805590/9dedc893-94f1-4bc9-973d-b3960ed17fbc)
